@@ -8,6 +8,7 @@ ApplicationConstant.java file is used to provide input data. If you want to vali
 Run :
 
 mvn clean install
+
 you can use capita-test-1.0.0.jar file to run the application.
 or you can run StringCalculatorApp.java file
 
